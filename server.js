@@ -17,6 +17,8 @@ const TWILIO_NUMBER = process.env.TWILIO_NUMBER;
 const emergencyContacts = [
   "+917013512446",
   "+919441652345",
+  "+919440719096",
+  "+918125316746",
 ];
 
 let client = null;
